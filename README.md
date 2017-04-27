@@ -1,10 +1,7 @@
-# generator-fei-nodejs [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependency Status][daviddm-image]][daviddm-url]
+# generator-fei-nodejs 
 > Yeoman generator for nodejs base file.
 
 ## Installation
-
-First, install [Yeoman](http://yeoman.io) and generator-fei-nodejs using [npm](https://www.npmjs.com/) (we assume you have pre-installed [node.js](https://nodejs.org/)).
-
 ```bash
 npm install -g yo
 npm install -g afeiship/generator-fei-nodejs
@@ -22,3 +19,7 @@ yo fei-nodejs
 
 ## todos:
 - [ ] wait for issues
+
+
+## resources:
++ http://yeoman.io
