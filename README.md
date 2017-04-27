@@ -7,7 +7,7 @@ First, install [Yeoman](http://yeoman.io) and generator-fei-nodejs using [npm](h
 
 ```bash
 npm install -g yo
-npm install -g generator-fei-nodejs
+npm install -g afeiship/generator-fei-nodejs
 ```
 
 Then generate your new project:
@@ -16,21 +16,9 @@ Then generate your new project:
 yo fei-nodejs
 ```
 
-## Getting To Know Yeoman
-
- * Yeoman has a heart of gold.
- * Yeoman is a person with feelings and opinions, but is very easy to work with.
- * Yeoman can be too opinionated at times but is easily convinced not to be.
- * Feel free to [learn more about Yeoman](http://yeoman.io/).
-
-## License
-
-MIT © [feizheng](https://github.com/afeiship)
+## logs:
++ [x] support es6 based on babel.
 
 
-[npm-image]: https://badge.fury.io/js/generator-fei-nodejs.svg
-[npm-url]: https://npmjs.org/package/generator-fei-nodejs
-[travis-image]: https://travis-ci.org/afeiship/generator-fei-nodejs.svg?branch=master
-[travis-url]: https://travis-ci.org/afeiship/generator-fei-nodejs
-[daviddm-image]: https://david-dm.org/afeiship/generator-fei-nodejs.svg?theme=shields.io
-[daviddm-url]: https://david-dm.org/afeiship/generator-fei-nodejs
+## todos:
+- [ ] wait for issues
